@@ -54,6 +54,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## Wireframe of Techium project
 ![Link to Wireframe Image](images/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
 
+---
+
 <details>
   <summary>Show/Hide Quiz</summary>
 
@@ -140,6 +142,8 @@ Which tag should we use to embed an image?
 - [ ] `<iframe>`
 
 </details>
+
+---
 
 ### Task 0: Create your first webpage
 
