@@ -1,7 +1,6 @@
 # 0x00. Advanced HTML
 
-## HTML
-## Front-end
+**`HTML`** **`Front-end`**
 
 ## Concepts
 For this project, we expect you to look at this concept:
