@@ -8,7 +8,7 @@ For this project, we expect you to look at this concept:
 
 - [HTML - elements of a web page]()
 
-[html](images/5d9e347964a9cc0e3e24.jpg)
+![html](images/5d9e347964a9cc0e3e24.jpg)
 
 
 ## Welcome!
@@ -50,10 +50,10 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - Techium will be the name of the company we will use across our webpages.
 
 ## Sitemap of the project
-[Sitemap Image](images/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png)
+![Sitemap Image](images/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png)
 
 ## Wireframe of Techium project
-[Link to Wireframe Image](images/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
+![Link to Wireframe Image](images/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png)
 
 <details>
   <summary>Show/Hide Quiz</summary>
