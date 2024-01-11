@@ -150,7 +150,7 @@ Create your first HTML file `0-index.html `with:
 - Open and close an HTML tag after the doctype
 - Add the language tag, specify English for the ISO language code, and add the direction tag (ltr or rtl) on the HTML tag.
 - Open your file in your browser (the page should be blank)
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 
 **Repo:**
@@ -165,7 +165,7 @@ Create your first HTML file `0-index.html `with:
 Copy the content of `0-index.html` into `1-index.html`
 - Create the head and body sections inside the HTML tag
 - The head and body tags should be empty
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 **Repo:**
 - GitHub repository: `alx-frontend`
@@ -274,7 +274,7 @@ Copy the content of `3-index.html` into `5-index.html`
     - Create the fifth section and put the text "`Latest news section"` inside.
     - Create the sixth section and put the text "`Testimonials section"` inside.
     - Create the seventh section and put the text "`Contact section"` inside.
-Ignore W3C errors
+**Ignore W3C errors**
 
 
 
@@ -303,7 +303,7 @@ Copy the content of `5-index.html` into `6-index.html`
   - Inside the section "`Testimonials section"`, add 3 article tags.
   - add 3 article tags
   - Inside each article, write "`Testimonial #"` where the hashtag will be the ordered number (1, 2, or 3).
-Ignore W3C errors
+**Ignore W3C errors**
 
 **Repo:**
 - GitHub repository: `alx-frontend`
@@ -318,7 +318,7 @@ Copy the content of `6-index.html` into `7-index.html`
 - Remove the "`Header"` text inside the `<header>`
 - Create the `nav` tag inside the `header` tag.
 - The `nav` tag should remain empty for now.
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 
 **Repo:**
@@ -333,7 +333,7 @@ Copy the content of `6-index.html` into `7-index.html`
 Copy the content of `7-index.html` into `8-index.html`
 - Create the level 1 heading inside your main before your sections.
 - Put text "`Homepage"` in your heading tag.
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 
 
@@ -354,7 +354,7 @@ Copy the content of `8-index.html` into `9-index.html`
 - In the section tag with the text "`Latest news section,"` remove the text and create a level 2 heading with text "`Latest news."`
 - In the section tag with the text "`Testimonials section,"` remove the text and create a level 2 heading with text "`Testimonials."`
 - In the section tag with the text "`Contact section,"` remove the text and create a level 2 heading with text "`Contact."`
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 
 
@@ -398,7 +398,7 @@ Copy the content of `9-index.html `into `10-index.html`
   - In the first article, replace the text with a level 3 heading with text "`Hoc loco tenere se Triarius non potuit."`
   - In the second article, replace the text with a level 3 heading with text "`Ut alios omittam, hunc appello, quem ille unum secutus est."`
   - In the third article, replace the text with a level 3 heading with text "`Bestiarum vero nullum iudicium puto."`
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 
 
@@ -470,7 +470,7 @@ Copy the content of  `10-index.html` into `12-index.html`
 - Below the level 2 About Us heading, add a paragraph with text "`Everything about us."`
 - Below the level 2 Testimonials heading, add a paragraph with text "`We are more than a digital company."`
 - Below the level 2 Contact heading, add a paragraph with text "`We like to know new people."`
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 
 
@@ -504,7 +504,7 @@ Copy the contents of `11-styleguide.html` into `13-styleguide.html`
 
 Copy the contents of `12-index.html` into `14-index.html`
 - In the very first `<header>`, before the `nav`, create a span with the text "`Techium."`
-- Ignore W3C errors
+- **Ignore W3C errors**
 
 **Repo:**
 - GitHub repository: `alx-frontend`
@@ -519,7 +519,7 @@ Copy the contents of `14-index.html` into `15-index.html`
 - Wrap the contents of the `header` element with a `div`
 - Wrap the contents of all `section` elements with a `div`
 - Finally, wrap the contents of the `<footer>` tag with a `div`
-- W3C does not need to pass
+- **W3C does not need to pass**
 
 **Repo:**
 - GitHub repository: `alx-frontend`
@@ -549,7 +549,7 @@ Copy the contents of `15-index.html` into `16-index.html`
 - In the `div` in the Contact section:
   - Create a `header` tag that wraps the `h2` and the first `p`
   - Create a `div` sibling to the `header` that wraps the rest of the content
-- W3C does not need to pass
+- **W3C does not need to pass**
 
 **Repo:**
 - GitHub repository: `alx-frontend`
@@ -585,7 +585,7 @@ Copy the contents of `16-index.html` into `17-index.html`
 Copy the contents of `17-index.html` into `18-index.html`
 - In the `header`, wrap the `span` with a link that redirects to the page at the root of your folder (`/`)
 - Wrap the link with a `div`
-- W3C does not need to pass
+- **W3C does not need to pass**
 
 **Repo:**
 - GitHub repository: `alx-frontend`
@@ -611,7 +611,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 20: Add links
 
-- Copy the content of `18-index.html` into `20-index.html`
+Copy the content of `18-index.html` into `20-index.html`
 - In your `nav` tags:
   - Create a link to `/` with the text Home
   - Create an anchor to services with the text Services
@@ -631,7 +631,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 21: Add social media links
 
-- Copy the content of `20-index.html` into `21-index.html`
+Copy the content of `20-index.html` into `21-index.html`
 - In the `div` in the footer:
   - Remove any text you have
   - Create a link to `https://www.facebook.com/HolbertonSchool/` with the text Facebook
@@ -647,7 +647,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 22: "Button" links
 
-- Copy the content of `21-index.html` into `22-index.html`
+Copy the content of `21-index.html` into `22-index.html`
 - In the Hero section, after the heading:
   - Create a link to `#` with the text Get started
 - In the About Us section, after the div containing the level 3 headings and paragraphs:
@@ -664,7 +664,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 23: Services, Works, Latest news links
 
-- Copy the content of `22-index.html` into `23-index.html`
+Copy the content of `22-index.html` into `23-index.html`
 - In the Services section:
   - In each level 3 heading, create a link to `#` around the text already in the heading
 - In the Works section:
@@ -681,7 +681,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 24: List the links
 
-- Copy the content of `23-index.html` into `24-index.html`
+Copy the content of `23-index.html` into `24-index.html`
 - In the `nav`:
   - Create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
 - In the `div` in the footer:
@@ -696,7 +696,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 25: Secondary navigation menu
 
-- Copy the content of `24-index.html` into `25-index.html`
+Copy the content of `24-index.html` into `25-index.html`
 - Inside the footer, after the div:
   - Create a new div
   - In the new div, create an unordered list with the following links:
@@ -713,7 +713,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 26: Examples of lists for the styleguide
 
-- Copy the content of `13-styleguide.html` into `26-styleguide.html`
+Copy the content of `13-styleguide.html` into `26-styleguide.html`
 - Example of unordered list:
   - Inside main after Paragraph section, add:
     - A new line and a comment with text Lists
@@ -748,7 +748,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 27: Separate content
 
-- Copy the content of `25-index.html` into `27-index.html`
+Copy the content of `25-index.html` into `27-index.html`
 - In the footer between the two divs:
   - Add a horizontal rule
   - After the horizontal rule, add a paragraph with text © 2020 Techium, made with ♥ by students at Holberton School.
@@ -762,7 +762,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 28: Horizontal rule example
 
-- Copy the content of `26-styleguide.html` into `28-styleguide.html`
+Copy the content of `26-styleguide.html` into `28-styleguide.html`
 - In main after Lists section:
   - Add a new line and a comment with the text Horizontal rule
   - Create a new section
@@ -778,7 +778,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 29: Client quotes
 
-- Copy the content of `27-index.html` into `29-index.html`
+Copy the content of `27-index.html` into `29-index.html`
 - In the Testimonials section:
   - In the first article, replace the text with a blockquote with text I am completely blown away. Thanks to Techium, we've just launched our 5th website! and cite author Yuri Y.
   - In the second article, replace the text with a blockquote with text Thank you so much for your help. Techium company is awesome! and cite author Dorrie S.
@@ -793,7 +793,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 30: Examples of quotes
 
-- Copy the content of `28-styleguide.html` into `30-styleguide.html`
+Copy the content of `28-styleguide.html` into `30-styleguide.html`
 - Example of inline quote:
   - Inside main after Horizontal rule section:
     - Add a new line and a comment with text Blockquotes
@@ -816,7 +816,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 31: Address and latest news authors
 
-- Copy the content of `29-index.html` into `31-index.html`
+Copy the content of `29-index.html` into `31-index.html`
 - In the footer:
   - Right after the open footer tag, put the following address: 234 Washington Street (line-break) Urbana, Illinois
 - In the Latest news section:
@@ -833,7 +833,7 @@ Certainly! Here are the tasks with the specified format for the "Repo" section:
 
 ### Task 32: Typography section - using the correct tags
 
-- Copy the content of `30-styleguide.html` into `32-styleguide.html`
+Copy the content of `30-styleguide.html` into `32-styleguide.html`
 
 Inside the `main` after the Blockquotes section, add a new line and a comment with text "Typography." Create a new section.
 
@@ -858,7 +858,7 @@ In the section:
 - In the new div, add the provided paragraph of text with the correct HTML tags: 
   - Curabitur sit amet turpis cursus massa mollis highlighted. Duis finibus leo massa, eget dapibus erat finibus sed. Aenean condimentum sapien magna, eleifend highlighted mi consequat ut. Cras nec quam sed sapien ultricies highlighted ut sed metus. Each occurrence of the word "highlighted" should be highlighted.
 
-W3C does not need to pass
+**W3C does not need to pass**
 
 
 Repo:
@@ -871,7 +871,7 @@ Repo:
 
 ### Task 33: Table
 
-- Copy the content of `32-styleguide.html` into `33-styleguide.html`
+Copy the content of `32-styleguide.html` into `33-styleguide.html`
 
 Inside the `main` after the Typography section, add a new line and a comment with text "Table." Create a new section.
 
@@ -885,7 +885,7 @@ In the section:
 The `<th>` tags containing Title, Director, Release Date should have a `scope` attribute set to `col`. The `<th>` tags containing the names of the movies should have a `scope` attribute set to `row`.
 
 
-Due to the previous task, it does not need to pass W3C
+**Due to the previous task, it does not need to pass W3C**
 
 Repo:
 
@@ -897,7 +897,7 @@ Repo:
 
 ### Task 34: Details
 
-- Copy the content of `33-styleguide.html` into `34-styleguide.html`
+Copy the content of `33-styleguide.html` into `34-styleguide.html`
 
 In the `main` after the Table section, add a new line and a comment with text "Details." Create a new section.
 
@@ -914,7 +914,7 @@ In the section:
   - Add a details element that is open by default and specify "Always open" in the summary.
   - Add this text after the summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
 
-Due to earlier tasks, it does not need to pass W3C
+**Due to earlier tasks, it does not need to pass W3C**
 
 
 
@@ -930,7 +930,7 @@ Repo:
 
 ![html](images/06f32e89f2a82582234e.png)
 
-- Copy the content of `31-index.html` into `35-index.html`
+Copy the content of `31-index.html` into `35-index.html`
 
 In the header, find the span with the name of the website and replace it with the provided image:
 
@@ -944,7 +944,7 @@ In the footer, after the opening tag and before the address, insert the same log
 <img src="logo-black.png" alt="Techium logo" width="160" height="40">
 ```
 
-W3C does not need to pass
+**W3C does not need to pass**
 
 
 
@@ -958,7 +958,7 @@ Repo:
 
 ### Task 36: Add images to your sections
 
-- Copy the content of `35-index.html` into `36-index.html`
+Copy the content of `35-index.html` into `36-index.html`
 
 Add three images in the Works section:
 - Before the first level 3 heading, create a div, and add `images/pic-work-01.jpg` inside the div. Alt: empty.
@@ -980,9 +980,7 @@ Add three images in the Testimonials section:
 
 ic-person-03.jpg`. Alt: Sven H. avatar. Width: 100px, Height: 100px.
 
-W3C does not need to pass
-
----
+**W3C does not need to pass**
 
 Repo:
 
@@ -994,7 +992,7 @@ Repo:
 
 ### Task 37: Social icons
 
-- Copy the content of `36-index.html` into `index.html` (the final file!)
+Copy the content of `36-index.html` into `index.html` (the final file!)
 - Inside the footer:
   - Replace the text "Facebook" with the SVG icon code and add a width of 25px and height of 25px to the SVG tag:
 
@@ -1034,7 +1032,7 @@ Repo:
 
 ### Task 38: Add a video player in the styleguide
 
-- Copy the content of `34-styleguide.html` into `38-styleguide.html`
+Copy the content of `34-styleguide.html` into `38-styleguide.html`
 - In the main, after the Details section:
   - Add a new line and a comment with the text "Video"
   - Create a section
@@ -1054,7 +1052,7 @@ Repo:
 
 ### Task 39: Add an audio player in the styleguide
 
-- Copy the content of `38-styleguide.html` into `39-styleguide.html`
+Copy the content of `38-styleguide.html` into `39-styleguide.html`
 - In the main, after the Video section:
   - Add a new line and a comment with the text "Audio"
   - Create a section
@@ -1072,7 +1070,7 @@ Repo:
 
 ### Task 40: Add an iframe example in the styleguide
 
-- Copy the content of `39-styleguide.html` into `styleguide.html`
+Copy the content of `39-styleguide.html` into `styleguide.html`
 - In the main, after the Audio section:
   - Add a new line and a comment with the text "Iframe"
   - Create a section
