@@ -154,9 +154,9 @@ Create your first HTML file `0-index.html `with:
 
 
 **Repo:**
-- GitHub repository: `alx-frontend`
-- Directory: `0x00-html_advanced`
-- File:  `0-index.html`
+-  GitHub repository: `alx-frontend`
+-  Directory: `0x00-html_advanced`
+-  File:  `0-index.html`
 
 ---
 
@@ -214,9 +214,9 @@ Copy the content of `1-index.html` into `2-index.html`
 
 
 **Repo:**
-- GitHub repository: `alx-frontend`
-- Directory: `0x00-html_advanced`
-- File:  `2-index.html`
+-  GitHub repository: `alx-frontend`
+-  Directory: `0x00-html_advanced`
+-  File:  `2-index.html`
 
 ---
 
@@ -238,9 +238,9 @@ Copy the content of `2-index.html` into `3-index.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `3-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `3-index.html`
 
 ---
 
@@ -253,9 +253,9 @@ Copy the contents of `3-index.html` into `article.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `article.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `article.html`
 
 ---
 
@@ -272,14 +272,14 @@ Copy the content of `3-index.html` into `5-index.html`
     - Create the fifth section and put the text "Latest news section" inside.
     - Create the sixth section and put the text "Testimonials section" inside.
     - Create the seventh section and put the text "Contact section" inside.
-- Ignore W3C errors
+Ignore W3C errors
 
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `5-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `5-index.html`
 
 ---
 
@@ -301,12 +301,12 @@ Copy the content of `5-index.html` into `6-index.html`
   - Inside the section "Testimonials section", add 3 article tags.
   - add 3 article tags
   - Inside each article, write "Testimonial #" where the hashtag will be the ordered number (1, 2, or 3).
-- Ignore W3C errors
+Ignore W3C errors
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `6-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `6-index.html`
 
 ---
 
@@ -320,9 +320,9 @@ Copy the content of `6-index.html` into `7-index.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `7-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `7-index.html`
 
 ---
 
@@ -336,9 +336,9 @@ Copy the content of `7-index.html` into `8-index.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `8-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `8-index.html`
 
 ---
 
@@ -357,9 +357,9 @@ Copy the content of `8-index.html` into `9-index.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `9-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `9-index.html`
 
 ---
 
@@ -401,9 +401,9 @@ Copy the content of `9-index.html `into `10-index.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `10-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `10-index.html`
 
 ---
 
@@ -426,9 +426,9 @@ Copy the content of `3-index.html` into `11-styleguide.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `11-styleguide.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `11-styleguide.html`
 
 ---
 
@@ -473,9 +473,9 @@ Copy the content of  `10-index.html` into `12-index.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `12-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `12-index.html`
 
 ---
 
@@ -492,9 +492,9 @@ Copy the contents of `11-styleguide.html` into `13-styleguide.html`
 
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `13-styleguide.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `13-styleguide.html`
 
 ---
 
@@ -505,9 +505,9 @@ Copy the contents of `12-index.html` into `14-index.html`
 - Ignore W3C errors
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `14-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `14-index.html`
 
 ---
 
@@ -520,9 +520,9 @@ Copy the contents of `14-index.html` into `15-index.html`
 - W3C does not need to pass
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `15-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `15-index.html`
 
 ---
 
@@ -550,9 +550,9 @@ Copy the contents of `15-index.html` into `16-index.html`
 - W3C does not need to pass
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `16-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `16-index.html`
 
 ---
 
@@ -572,9 +572,9 @@ Copy the contents of `16-index.html` into `17-index.html`
 - Does not need to pass W3C
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `17-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `17-index.html`
 
 ---
 
@@ -586,9 +586,9 @@ Copy the contents of `17-index.html` into `18-index.html`
 - W3C does not need to pass
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-File: `18-index.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- File: `18-index.html`
 
 ---
 
@@ -601,6 +601,6 @@ Copy the contents of `18-index.html` into `about.html`, `latest_news.html`, and 
 Does not need to pass W3C
 
 **Repo:**
-GitHub repository: `alx-frontend`
-Directory: `0x00-html_advanced`
-Files: `about.html`, `latest_news.html`, `contact.html`
+- GitHub repository: `alx-frontend`
+- Directory: `0x00-html_advanced`
+- Files: `about.html`, `latest_news.html`, `contact.html`
