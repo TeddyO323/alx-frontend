@@ -10,7 +10,7 @@ In this project, you will analyze this website [https://dev-tools.alx-tools.com/
 
 ## Resources
 Read or watch:
-
+v
 - [Chrome DevTools | Tools for Web Developers | Google Developers](https://developer.chrome.com/docs/devtools/)
 - [Introduction | Down and Dirty with Chrome Developer Tools](https://developers.google.com/codelabs/devtools-intro)
 - [Firefox Developer Tools | MDN](https://developer.mozilla.org/en-US/docs/Tools)
