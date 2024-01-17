@@ -51,9 +51,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 0-responsive_device.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `0-responsive_device.png`
 
 --- 
 
@@ -64,9 +64,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 1-change_bg_color.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `1-change_bg_color.png`
 
 ---
 
@@ -77,9 +77,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 2-pathways_menu.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `2-pathways_menu.png`
 ---
 ### 3. Copy all the styles of the button (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -95,9 +95,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 3-button_styles
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `3-button_styles`
 ---
 ### 4. Change button styles (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -108,9 +108,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 4-new_buttons.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `4-new_buttons.png`
 ---
 ### 5. Remove part of the website (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -120,9 +120,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 5-deleted_elements.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `5-deleted_elements.png`
 ---
 ### 6. Where is it coming from? (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -134,9 +134,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 6-declaration_file
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `6-declaration_file`
 ---
 ### 7. How many listeners (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -146,9 +146,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 7-number_of_listeners
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `7-number_of_listeners`
 ---
 ### 8. What is the HSL code (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -161,9 +161,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
   
 
-- GitHub repository: alx-frontend
-- Directory: 0x01-developer_tools
-- File: 8-hsl
+- GitHub repository: `alx-frontend`
+- Directory: `0x01-developer_tools`
+- File: `8-hsl`
 ---
 ### 9. The max-width of the container (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -173,9 +173,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 9-max_width
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `9-max_width`
 ---
 ### 10. Moving around (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -185,11 +185,12 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 10-moved_around.png
-Certainly! Here's the continuation of the README.md content in Markdown format:
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `10-moved_around.png`
+
 ---
+
 ### 11. Coverage (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
 - How many bytes that freelancer.css covers?
@@ -198,9 +199,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 11-coverage
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `11-coverage`
 ---
 ### 12. Emulate the print version of the webpage (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -209,9 +210,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 12-print_version.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `12-print_version.png`
 ---
 ### 13. Using the console (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -221,9 +222,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 13-logo_dollar0
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `13-logo_dollar0`
 ---
 ### 14. Write code in the console (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -232,9 +233,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 14-doc_title
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File:  `14-doc_title`
 ---
 ### 15. Web framework (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -248,9 +249,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 15-hbtn_framework
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `15-hbtn_framework`
 ---
 ### 16. Homepage weight (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -260,9 +261,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 16-weight.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `16-weight.png`
 ---
 ### 17. Number of requests (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -272,9 +273,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 17-requests.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `17-requests.png`
 ---
 ### 18. Number of CSS files (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -283,9 +284,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 18-css_loaded
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `18-css_loaded`
 ---
 ### 19. Number of images (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -294,9 +295,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 19-images_loaded
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `19-images_loaded`
 ---
 ### 20. Favicon image type (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -306,9 +307,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 20-favicon_type
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `20-favicon_type`
 
 ---
 
@@ -319,9 +320,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 21-hbtn_font_lib
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `21-hbtn_font_lib`
 ---
 ### 22. XHR calls (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -330,9 +331,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 22-xhr_calls
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `22-xhr_calls`
 ---
 ### 23. Audits panel (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -342,9 +343,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 23-performance_audit.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `23-performance_audit.png`
 ---
 ### 24. Static assets (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -354,9 +355,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 24-static_assets_audit.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `24-static_assets_audit.png`
 ---
 ### 25. Accessibility (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -369,9 +370,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 25-contrast_issue
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `25-contrast_issue`
 ---
 ### 26. No alt (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -381,9 +382,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 26-no_alt
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `26-no_alt`
 ---
 ### 27. Best practices (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -397,9 +398,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 27-missing_attr
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `27-missing_attr`
 ---
 ### 28. SEO (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -409,9 +410,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 28-unclear_desc.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `28-unclear_desc.png`
 ---
 ### 29. Sources (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -424,9 +425,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 29-how_many_colors.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `29-how_many_colors.png`
 ---
 ### 30. Block CSS files (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -436,9 +437,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 30-no_css.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `30-no_css.png`
 ---
 ### 31. Application panel (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -448,9 +449,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 31-session_storage_key
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `31-session_storage_key`
 ---
 ### 32. Service workers (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -459,9 +460,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 32-service_workers
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `32-service_workers`
 ---
 ### 33. Security (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -471,9 +472,9 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 33-ssl_cert
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `33-ssl_cert`
 ---
 ### 34. Expiration date (mandatory)
 - Go to [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)
@@ -483,6 +484,6 @@ Certainly! Here's the continuation of the README.md content in Markdown format:
 
 **Repo:**
 
-  - GitHub repository: alx-frontend
-  - Directory: 0x01-developer_tools
-  - File: 34-ssl_expiration.png
+  - GitHub repository: `alx-frontend`
+  - Directory: `0x01-developer_tools`
+  - File: `34-ssl_expiration.png`
