@@ -55,19 +55,16 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 #### Files you need for the project
 
-- `favicon.jpg` 
+`favicon.jpg` 
 ![favicon](images/favicon.jpg)
 
-- `logo-black.png` 
+`logo-black.png` 
 ![Alt text](images/logo-black.png)
 
- - [Download](images/logo-black.png)
-
- - `logo-white.png` 
+`logo-white.png` 
 
  ![Alt text](images/logo-white.png)
 
- - [Download](images/logo-white.png)
 
 Store all these under a directory named “images”
 
