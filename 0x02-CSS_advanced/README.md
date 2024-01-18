@@ -451,9 +451,9 @@ You can save it in an `index.html` file and replace the `<link rel='stylesheet' 
 What’s the impact of `position: absolute` on an element?
 
 - [ ] the element position will be relative to the viewport
-- [x] the element position will be relative to its normal position
+- [ ] the element position will be relative to its normal position
 - [ ] the element position will be based on the user’s scroll position
-- [ ] the element position will be relative to the nearest positioned ancestor element
+- [x] the element position will be relative to the nearest positioned ancestor element
 
 **Question #1**
 What’s the final color text of `<h1>` in this code?
@@ -532,11 +532,11 @@ p.my_class {
 ```
 
 - [ ] 20px
-- [ ] 18px
+- [x] 18px
 - [ ] 12px
 - [ ] 10px
 - [ ] 16px
-- [x] 24px
+- [ ] 24px
 
 **Question #6**
 What’s the final color text of `<h1>` in this code?
@@ -561,8 +561,8 @@ What’s the final color text of `<h1>` in this code?
 
 - [ ] #0000FF
 - [ ] Black (default value)
-- [x] #00FF00
-- [ ] #FF0000
+- [ ] #00FF00
+- [x] #FF0000
 
 **Question #7**
 What’s the `font-size` in pixels of an element `p.my_class` if the default `p` font-size is 16px?
@@ -667,9 +667,9 @@ What’s the final color text of `<h1>` in this code?
 ```
 
 - [ ] #0000FF
-- [ ] Black (default value)
+- [x] Black (default value)
 - [ ] #00FF00
-- [x] #FF0000
+- [ ] #FF0000
 
 **Question #13**
 What’s the `font-size` in pixels of an element `p.my_class`?
@@ -684,9 +684,9 @@ p.my_class {
 ```
 
 - [ ] 10px
-- [ ] 3px
+- [x] 3px
 - [ ] 6px
-- [x] 4px
+- [ ] 4px
 
 **Question #14**
 What’s the final color text of `<h1>` in this code?
@@ -719,19 +719,19 @@ What’s the impact of `overflow-y: auto` on an element?
 
 - [ ] no impact on the element
 - [ ] the element doesn’t allow vertical and horizontal scrolling if the content is too long/large
-- [ ] the element allows vertical scrolling if the content is too long
+- [x] the element allows vertical scrolling if the content is too long
 - [ ] the element allows horizontal scrolling if the content is too large
-- [x] the element allows
+- [ ] the element allows
 
  vertical and horizontal scrolling if the content is too long/large
 
 **Question #16**
 What’s the impact of `position: fixed` on an element?
 
-- [ ] the element position will be relative to the viewport
+- [x] the element position will be relative to the viewport
 - [ ] the element position will be relative to its normal position
 - [ ] the element position will be based on the user’s scroll position
-- [x] the element position will be relative to the nearest positioned ancestor element
+- [ ] the element position will be relative to the nearest positioned ancestor element
 
 **Question #17**
 What’s the `font-size` in pixels of an element `p.my_class` if the default `p` font-size is 16px?
@@ -819,8 +819,8 @@ What’s the final color text of `<h1>` in this code?
 
 - [ ] #0000FF
 - [ ] Black (default value)
-- [x] #00FF00
-- [ ] #FF0000
+- [ ] #00FF00
+- [x] #FF0000
 
 </details>
 
