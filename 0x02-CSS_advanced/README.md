@@ -1,6 +1,4 @@
-Certainly! Here's the content for your README.md file in Markdown format:
 
-```markdown
 # 0x02. Advanced CSS
 
 ## CSS Front-end
@@ -426,6 +424,5 @@ You can save it in an `index.html` file and replace the `<link rel='stylesheet' 
 ## End goal of the project
 
 **Important note:** Details are important! Lowercase vs uppercase / wrong letter… be careful!
-```
 
-Make sure to replace the placeholder `[Download](link-to-favicon.jpg)` with the actual download links for the image files.
+
