@@ -59,7 +59,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ![favicon](images/favicon.jpg)
 
+`logo-black.png` 
 
+![Alt text](images/logo-black.png)
 
 `logo-white.png` 
 
