@@ -827,13 +827,12 @@ What’s the final color text of `<h1>` in this code?
 
 ---
 
-Certainly! Here are the tasks with the repository name, directory, and file names enclosed in backticks:
 
----
 
-### Tasks
 
-**Task 0: Let's get some images!**
+## Tasks
+
+### Task 0: Let's get some images!
 
 * The description of the project contains some inspiration for the final look of the project but we’ll have to download some images.
 * Head to unsplash and download 10 high-resolution images that look as close to the final product that you’re going to make. Remember to also include the 3 images (the 2 logos and the favicon) linked in the description of the project.
@@ -846,7 +845,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 1: Effortless transitions when scrolling**
+### Task 1: Effortless transitions when scrolling
 
 * When scrolling is triggered on the html element itself, we’d like the behavior of the scroll to be as fluid as possible.
 
@@ -857,7 +856,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 2: Do you know your color values?**
+### Task 2: Do you know your color values?
 
 * Based on `styles/1-style.css`, create the following declarations:
   * For the body, set the foreground color value to `#161616`
@@ -873,7 +872,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 3: Reuse and repeat. A programmer's life should be simple with variables**
+### Task 3: Reuse and repeat. A programmer's life should be simple with variables
 
 * Based on `styles/2-style.css`:
   * Target the root element and define the following custom properties:
@@ -893,7 +892,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 4: Variables for storing certain font types**
+### Task 4: Variables for storing certain font types
 
 * Based on `styles/3-style.css`:
   * Targeting the root element, create 2 custom font-family properties `font-family-base` and `font-family-title` with the same list of fonts:
@@ -911,7 +910,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 5: Variables for the font size**
+### Task 5: Variables for the font size
 
 * Based on `styles/4-style.css`:
   * Targeting the root selector, create the following custom properties:
@@ -930,7 +929,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 6: Variables for the font-weight**
+### Task 6: Variables for the font-weight
 
 * Based on `styles/5-style.css`:
   * Targeting the root element, create the following custom properties:
@@ -946,7 +945,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 7: Integrating Google Fonts into the CSS file**
+### Task 7: Integrating Google Fonts into the CSS file
 
 * Based on `styles/6-style.css`:
   * Add `Open Sans` as the first choice font for `font-family-base`, with the previous fonts shifted down accordingly
@@ -959,7 +958,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 8: Defining line heights**
+### Task 8: Defining line heights
 
 * Based on `styles/7-style.css`:
   * Targeting root, create the following custom properties:
@@ -975,7 +974,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 9: Links are decorated by default, time to remove them**
+### Task 9: Links are decorated by default, time to remove them
 
 * Based on `styles/8-style.css`:
   * Style the anchor elements so the text isn’t decorated with anything
@@ -987,7 +986,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 10: Centering the section titles**
+### Task 10: Centering the section titles
 
 * Based on `styles/9-style.css`:
   * Create a new custom property `section-header-align` and set it to `center`
@@ -1001,7 +1000,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 11: Add more styles to the section tagline**
+### Task 11: Add more styles to the section tagline
 
 * Based on `styles/10-style.css`:
   * Create a custom property `section-tagline-transform` and set it to `uppercase`
@@ -1017,7 +1016,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 12: Adding more styling to the section title**
+### Task 12: Adding more styling to the section title
 
 * Based on `styles/11-style.css`:
   * Create the following custom properties:
@@ -1037,7 +1036,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 13: Pseudo Classes**
+### Task 13: Pseudo Classes
 
 * Based on `styles/12-style.css`:
   * Ensure that the declaration targeting anchor elements only targets those containing a hyperlink
@@ -1055,7 +1054,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 14: Resetting the CSS stylesheet for browser consistency**
+### Task 14: Resetting the CSS stylesheet for browser consistency
 
 * Based on `styles/13-style.css`:
   * Normalize your CSS file using necolas’ normalize.css with this version.
@@ -1067,7 +1066,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 15: Add universal box-sizing**
+### Task 15: Add universal box-sizing
 
 * Based on `styles/14-style.css`:
   * Just before the styling for `html`, add a universal box-sizing rule
@@ -1079,7 +1078,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 16: Styling the container**
+### Task 16: Styling the container
 
 * Based on `styles/15-style.css`:
   * After the styles for `.section-tagline`,
@@ -1094,7 +1093,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 17: Adding padding to sections**
+### Task 17: Adding padding to sections
 
 * Based on `styles/16-style.css`:
   * Create the following custom properties:
@@ -1117,7 +1116,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 18: Customizing the navbar**
+### Task 18: Customizing the navbar
 
 * Based on `styles/17-style.css`:
   * Targeting the `navbar-menu` class, let it float to the right
@@ -1155,7 +1154,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 19: Grid styling and custom variables**
+### Task 19: Grid styling and custom variables
 
 * Based on `styles/18-style.css`:
   * Create the custom property `section-tagline-margin` set to `0`
@@ -1185,7 +1184,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 20: Clear the context of the grid**
+### Task 20: Clear the context of the grid
 
 * Based on `styles/19-style.css`:
   * Write a CSS rule that creates a new row after each instance of the class `row` with the following properties:
@@ -1198,7 +1197,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
   * Directory: `0x02-CSS_advanced`
   * File: `styles/20-style.css`
 
-  **Task 21: Simplify the col- selector**
+  ### Task 21: Simplify the col- selector
 
 * Based on `styles/20-style.css`:
   * Select all classes that start with `col-`
@@ -1214,7 +1213,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 22: Add a dark theme to sections**
+### Task 22: Add a dark theme to sections
 
 * Based on `styles/21-style.css`:
   * Style the `data-section-theme="dark"` with these rules:
@@ -1230,7 +1229,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 23: Fix issues for dark theme**
+### Task 23: Fix issues for dark theme
 
 * Based on `styles/22-style.css`:
   * Style the `footer-address` class:
@@ -1248,7 +1247,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 24: Add background and hover state to services**
+### Task 24: Add background and hover state to services
 
 * Based on `styles/23-style.css`:
   * Target `card-title` that is inside `card-services`:
@@ -1270,7 +1269,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 25: Add border to the button**
+### Task 25: Add border to the button
 
 * Based on `styles/24-style.css`:
   * Add custom properties to the root selector in the CSS file:
@@ -1306,7 +1305,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 26: Add border radius to images**
+### Task 26: Add border radius to images
 
 * Based on `styles/25-style.css`:
   * Add the `card-testimonial` selector:
@@ -1328,7 +1327,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 27: Styling the section hero**
+### Task 27: Styling the section hero
 
 * Based on `styles/26-style.css`:
   * Add the `section-hero` selector:
@@ -1347,7 +1346,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 28: Fixing the header and menu navigation bar**
+### Task 28: Fixing the header and menu navigation bar
 
 * Based on `styles/27-style.css
 
@@ -1377,7 +1376,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 29: Styling and custom properties for the nav**
+### Task 29: Styling and custom properties for the nav
 
 * Based on `styles/28-style.css`:
   * Edit the `nav-item-link-hover` property by setting its value to the `color-white` variable
@@ -1401,7 +1400,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 30: Fix the works section**
+### Task 30: Fix the works section
 
 * Based on `styles/29-style.css`:
   * Target `card-outer` within the `card-work`:
@@ -1445,7 +1444,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 31: Add quotes decoration on testimonials**
+### Task 31: Add quotes decoration on testimonials
 
 * Target the `card-quote` that is inside the `card-testimonial`:
   * Style it so that the position is relative to its parent
@@ -1466,7 +1465,7 @@ Certainly! Here are the tasks with the repository name, directory, and file name
 
 ---
 
-**Task 32: Incorporating transitions**
+### Task 32: Incorporating transitions
 
 * Create some custom properties:
   * Name: `transition-duration`, Value: `.3s`
