@@ -56,6 +56,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 #### Files you need for the project
 
 `favicon.jpg` 
+
 ![favicon](images/favicon.jpg)
 
 
