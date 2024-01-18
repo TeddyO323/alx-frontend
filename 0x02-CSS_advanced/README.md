@@ -838,7 +838,7 @@ What’s the final color text of `<h1>` in this code?
 * Head to unsplash and download 10 high-resolution images that look as close to the final product that you’re going to make. Remember to also include the 3 images (the 2 logos and the favicon) linked in the description of the project.
 * The images should all be representative of the category they belong to.
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `images/pic-about-01.jpg`, `images/pic-work-01.jpg`, `images/pic-work-02.jpg`, `images/pic-work-03.jpg`, `images/pic-article-01.jpg`, `images/pic-article-02.jpg`, `images/pic-article-03.jpg`, `images/pic-person-01.jpg`, `images/pic-person-02.jpg`, `images/pic-person-03.jpg`
@@ -849,7 +849,7 @@ What’s the final color text of `<h1>` in this code?
 
 * When scrolling is triggered on the html element itself, we’d like the behavior of the scroll to be as fluid as possible.
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/1-style.css`
@@ -865,7 +865,7 @@ What’s the final color text of `<h1>` in this code?
   * All elements with the class card-category should have their foreground color set to `#D73953`
   * All elements with the class section-tagline should have their foreground color set to `#D73953`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/2-style.css`
@@ -885,7 +885,7 @@ What’s the final color text of `<h1>` in this code?
   * Revisit the section-tagline and card-category declarations and reset their color to `color-primary`
   * Revisit the body and anchor declarations and reset their color to `text-color`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/3-style.css`
@@ -903,7 +903,7 @@ What’s the final color text of `<h1>` in this code?
   * Set `body`‘s font-family to `font-family-base`
   * Create a new declaration targeting all 6 levels of section headings, positioned before the links declaration, set its font-family to `font-family-title`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/4-style.css`
@@ -922,7 +922,7 @@ What’s the final color text of `<h1>` in this code?
   * All fonts in the html element should be at `62.5%` of their normal size
   * Any fonts in the body should have their sizes set to `font-size-medium`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/5-style.css`
@@ -938,7 +938,7 @@ What’s the final color text of `<h1>` in this code?
   * Set the boldness of fonts in the body to `font-weight-regular`
   * Set the boldness of fonts in the headings to `font-weight-bold`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/6-style.css`
@@ -951,7 +951,7 @@ What’s the final color text of `<h1>` in this code?
   * Add `Open Sans` as the first choice font for `font-family-base`, with the previous fonts shifted down accordingly
   * Add `Raleway` as the first choice font for `font-family-title`, with the previous fonts shifted down accordingly
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/7-style.css`
@@ -967,7 +967,7 @@ What’s the final color text of `<h1>` in this code?
     * `line-height-big` set to `1.8`
   * Set the minimum height of line boxes in the body to `line-height-base`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/8-style.css`
@@ -979,7 +979,7 @@ What’s the final color text of `<h1>` in this code?
 * Based on `styles/8-style.css`:
   * Style the anchor elements so the text isn’t decorated with anything
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/9-style.css`
@@ -993,7 +993,7 @@ What’s the final color text of `<h1>` in this code?
   * Just above the `section-tagline` declaration, create a new declaration targeting the class `section-header`
   * Set horizontal alignment of that class with `section-header-align`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/10-style.css`
@@ -1009,7 +1009,7 @@ What’s the final color text of `<h1>` in this code?
     * By using the property `section-tagline-transform`, transform the text
     * Set the weight of fonts to `font-weight-bold`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/11-style.css`
@@ -1029,7 +1029,7 @@ What’s the final color text of `<h1>` in this code?
     * Use the `section-title-margin` to set the margin
     * Use the `section-title-color` to set the text color
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/12-style.css`
@@ -1047,7 +1047,7 @@ What’s the final color text of `<h1>` in this code?
   * Directly after the hover state, target the active state for the link
     * Set the color of the background with the variable `color-light-grey`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/13-style.css`
@@ -1059,7 +1059,7 @@ What’s the final color text of `<h1>` in this code?
 * Based on `styles/13-style.css`:
   * Normalize your CSS file using necolas’ normalize.css with this version.
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/14-style.css`
@@ -1071,7 +1071,7 @@ What’s the final color text of `<h1>` in this code?
 * Based on `styles/14-style.css`:
   * Just before the styling for `html`, add a universal box-sizing rule
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/15-style.css`
@@ -1086,7 +1086,7 @@ What’s the final color text of `<h1>` in this code?
       * `960px` wide
       * Evenly distribute the margins on both the left and right side
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/16-style.css`
@@ -1109,7 +1109,7 @@ What’s the final color text of `<h1>` in this code?
   * Following the `section-body` declaration, target the `section-footer` class, pad all 4 sides with `section-footer-padding` and set the horizontal alignment with `section-footer-align`
   * At the end of your style file, target the class `footer`, pad all 4 sides of the selected element with `footer-padding`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/17-style.css`
@@ -1147,7 +1147,7 @@ What’s the final color text of `<h1>` in this code?
     * `nav-item-margin` to `3 times` the root element on the bottom and `0` elsewhere
     * `nav-item-link-hover` set to `color-primary`
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/18-style.css`
@@ -1177,7 +1177,7 @@ What’s the final color text of `<h1>` in this code?
     * Set the foreground color to `text-color`
   * For all `ul` tags in the `footer` class, align the text to the right
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/19-style.css`
@@ -1192,7 +1192,7 @@ What’s the final color text of `<h1>` in this code?
     * Displayed as a table
     * Do not allow any floating elements on either side
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/20-style.css`
@@ -1206,7 +1206,7 @@ What’s the final color text of `<h1>` in this code?
   * Remove references to these common properties for the individual `col-1-3` and `col-1-2` classes
   * Does not need W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/21-style.css`
@@ -1222,7 +1222,7 @@ What’s the final color text of `<h1>` in this code?
     * Set the background to the variable `color-black`
   * Does not need to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/22-style.css`
@@ -1240,7 +1240,7 @@ What’s the final color text of `<h1>` in this code?
       * Fill in the color of the `svg` children with the `text-color` variable
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/23-style.css`
@@ -1262,7 +1262,7 @@ What’s the final color text of `<h1>` in this code?
     * Text should not be decorated at all
   * Does not need to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/24-style.css`
@@ -1298,7 +1298,7 @@ What’s the final color text of `<h1>` in this code?
       * Create a custom property `button-color` pointing to the variable `color-white`
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/25-style.css`
@@ -1320,7 +1320,7 @@ What’s the final color text of `<h1>` in this code?
     * Set the foreground color value to the value of the `color-primary` variable
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/26-style.css`
@@ -1339,7 +1339,7 @@ What’s the final color text of `<h1>` in this code?
     * Add `10rem`, `40rem`, `2rem`, and `0` to the padding on the top, right, bottom, left all in 1 rule
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/27-style.css`
@@ -1369,7 +1369,7 @@ What’s the final color text of `<h1>` in this code?
     * Set the horizontal position of the element using `header-logo-link-left`
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/28-style.css`
@@ -1393,7 +1393,7 @@ What’s the final color text of `<h1>` in this code?
     * Set the width of the elements to 100%
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/29-style.css`
@@ -1437,7 +1437,7 @@ What’s the final color text of `<h1>` in this code?
     * The opacity of these elements should be set to the value of 1
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/30-style.css`
@@ -1458,7 +1458,7 @@ What’s the final color text of `<h1>` in this code?
   * The z-order should be set to -1
   * Does not have to pass W3C
 
-  Repo:
+**Repo:**
   * GitHub repository: `alx-frontend`
   * Directory: `0x02-CSS_advanced`
   * File: `styles/31-style.css`
